@@ -18,4 +18,6 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 
-github pages: 
+github pages: https://camkaras.github.io/code-portfolio/
+
+github repository: https://github.com/camkaras/code-portfolio 
