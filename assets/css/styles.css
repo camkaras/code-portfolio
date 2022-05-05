@@ -17,7 +17,7 @@ a {
 
 header{
     padding: 20px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #000;
     color: #ffffff;
 }
@@ -31,7 +31,7 @@ header nav{
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
 }
 
@@ -50,8 +50,32 @@ header nav ul li {
     font-size: x-large;
     font-weight: bolder;
     padding-top: 350px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-#abtme {
+img {
+    border: 3px solid #000;
+    width: 300px;
+    height: 300px;
+}
 
+table {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    text-align: center;
+    text-decoration: #000;
+}
+
+#projects {
+    padding: 50px;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#proj {
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
 }
